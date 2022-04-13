@@ -23,5 +23,6 @@ Finally, a voting classifier using the best models was the one employed to predi
 Things I learned in this competition:
 -	OPTUNA for hyperparameter optimization
 -	Clustering using K-means (I used k-means on my 9th submission but didn't get the expected result)
+-	How to get the best threshold of a precision recall curve to optimize f1
 
 

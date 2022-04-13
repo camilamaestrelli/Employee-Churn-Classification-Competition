@@ -10,9 +10,9 @@ For a better understanding, this was divided in 4 parts: 3 notebooks containing 
 
 ---
 
-1.	Exploratory Data Analysis: [EDA - Part 1](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition/blob/main/EDA1_8th_FLAI_ML_Competition.ipynb)
-2.	Exploratory Data Analysis: [EDA - Part 2](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition/blob/main/EDA2_8th_FLAI_ML_Competition.ipynb)
-3.	Exploratory Data Analysis: [EDA - Part 3](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition/blob/main/EDA3_8th_FLAI_ML_Competition.ipynb)
+1.	Exploratory Data Analysis - Part 1: [EDA - Part 1](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition/blob/main/EDA1_8th_FLAI_ML_Competition.ipynb)
+2.	Exploratory Data Analysis - Part 2: [EDA - Part 2](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition/blob/main/EDA2_8th_FLAI_ML_Competition.ipynb)
+3.	Exploratory Data Analysis - Part 3: [EDA - Part 3](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition/blob/main/EDA3_8th_FLAI_ML_Competition.ipynb)
 4.	ML: [Algorithm](https://github.com/camilamaestrelli/Employee-Churn-Classification-Competition/blob/main/ALGORITHM_8FLAI_GIT.ipynb)
 
 Following the EDA, a pre-processing was carried out. Thereafter, randomized searches using OPTUNA were carried out for a hyperparametrization.

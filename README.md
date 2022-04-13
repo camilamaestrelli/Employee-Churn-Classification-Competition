@@ -18,7 +18,7 @@ For a better understanding, this was divided in 4 parts: 3 notebooks containing 
 Following the EDA, a pre-processing was carried out. Thereafter, randomized searches using OPTUNA were carried out for a hyperparametrization.
 Finally, a voting classifier using the best models was the one employed to predict the churn. After that, the best threshold was found to reach a higher f1.
 
-
+***
 
 Things I learned in this competition:
 -	OPTUNA for hyperparameter optimization
